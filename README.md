@@ -17,8 +17,13 @@ VR 기기로 플레이할 수 있는 3D VR 레이싱 게임입니다.
 장애물을 피하면서 5가지 햄버거 재료를 모두 모아보세요!
 
 <br>
-<br>
 
+## ⚒️ 기술 스택
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![OculusQuest2](https://img.shields.io/badge/Oculus_Quest2-%231877F2.svg?style=for-the-badge&logo=meta&logoColor=white)  
+
+<br>
 
 ## 🕹️ 실제 게임 화면
 ![BURGERAT_S1](https://github.com/lsy20140/lsy20140/assets/68267094/f2d4e2b1-1ba0-43fa-9f4f-27b2a4c258ee)

@@ -25,6 +25,11 @@ VR 기기로 플레이할 수 있는 3D VR 레이싱 게임입니다.
 
 <br>
 
+## 🕹️ 플레이 영상
+https://www.youtube.com/watch?v=KVRV-hxUf0E&t=9s
+
+<br>
+
 ## 🕹️ 실제 게임 화면
 ![BURGERAT_S1](https://github.com/lsy20140/lsy20140/assets/68267094/f2d4e2b1-1ba0-43fa-9f4f-27b2a4c258ee)
 
